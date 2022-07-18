@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/ScrewDrive">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ScrewDrive&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScrewDrive&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ScrewDrive&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScrewDrive&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998636221402185840/998637220045000714/download20220701163412.png?width=676&height=676">
